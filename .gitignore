@@ -1,0 +1,10 @@
+# Ignore large datasets and data folders
+*.csv
+*.pkl
+*.h5
+data/
+
+# Ignore checkpoints and local environments
+.ipynb_checkpoints/
+venv/
+.env
