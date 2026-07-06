@@ -66,7 +66,7 @@ Different machine learning algorithms were trained and evaluated before selectin
 - F1-Score
 - Confusion Matrix
 
-> **Best Performing Model:** *Update this section with your final model name and evaluation scores.*
+> **Best Performing Model:** *Gaussian Navie Bayes Supervised ML Model*
 
 ---
 
