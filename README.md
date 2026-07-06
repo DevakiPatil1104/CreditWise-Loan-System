@@ -80,19 +80,13 @@ Different machine learning algorithms were trained and evaluated before selectin
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/loanwise-approval-prediction.git
+git clone https://github.com/DevakiPatil1104/loanlens-ml.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
 cd miniProject_Loan_Approval_System
-```
-
-### Install the required dependencies
-
-```bash
-pip install -r requirements.txt
 ```
 
 ### Run the Streamlit application
@@ -102,7 +96,6 @@ streamlit run app.py
 ```
 
 ---
-
 
 ## Future Improvements
 
